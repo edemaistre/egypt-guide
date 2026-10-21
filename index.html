@@ -1,1 +1,65 @@
-<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Egypt Field Guide</title><body style="font-family:system-ui;padding:2rem"><h1>Egypt Field Guide</h1><p>Building. Back in a few hours.</p>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Egypt</title>
+<meta name="description" content="Family field guide to Egypt, 21 to 31 October 2026. Works offline.">
+<meta name="theme-color" content="#F6F0E4">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Egypt">
+<meta name="format-detection" content="telephone=no">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="preload" href="fonts/Inter.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/Fraunces.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="app.css">
+</head>
+<body data-version="fa742fef93">
+<header class="topbar" id="topbar">
+  <a class="back" id="backbtn" href="#/" aria-label="Back to home" hidden><span aria-hidden="true">&#8249;</span> Home</a>
+  <a class="brand" href="#/">Egypt <span>Field Guide</span></a>
+  <span class="net" id="netbadge" hidden>Offline</span>
+</header>
+<main id="view" tabindex="-1"><div class="loading">Loading the guide</div></main>
+
+<div class="mini" id="mini" hidden>
+  <div class="mini-bar"><i id="mini-prog"></i></div>
+  <button class="mini-play" id="mini-play" aria-label="Play">&#9654;</button>
+  <button class="mini-info" id="mini-open" aria-label="Open player">
+    <b id="mini-title"></b><span id="mini-sub"></span>
+  </button>
+</div>
+
+<div class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="pl-title">
+  <div class="sheet-in">
+    <div class="sheet-top"><span class="eyebrow" id="pl-series">Egypt, Out Loud</span><button class="close" id="pl-close" aria-label="Close player">&#10005;</button></div>
+    <h2 id="pl-title"></h2>
+    <p class="pl-blurb" id="pl-blurb"></p>
+    <p class="pl-note" id="pl-note" hidden></p>
+    <input type="range" id="pl-seek" min="0" max="1000" value="0" step="1" aria-label="Seek">
+    <div class="pl-times"><span id="pl-cur">0:00</span><span id="pl-dur">0:00</span></div>
+    <div class="pl-ctrl">
+      <button id="pl-back" aria-label="Back 15 seconds"><b>&#8634;</b><small>15 s</small></button>
+      <button class="pl-main" id="pl-play" aria-label="Play">&#9654;</button>
+      <button id="pl-fwd" aria-label="Forward 30 seconds"><b>&#8635;</b><small>30 s</small></button>
+    </div>
+    <div class="pl-speed" id="pl-speed" role="group" aria-label="Speed"></div>
+    <h3 class="pl-qh" id="pl-qh">Up next</h3>
+    <div class="pl-queue" id="pl-queue"></div>
+  </div>
+</div>
+
+<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-label="Map viewer">
+  <div class="viewer-top"><b id="viewer-title"></b><button class="close" id="viewer-close" aria-label="Close">&#10005;</button></div>
+  <div class="viewer-scroll" id="viewer-scroll"><div class="viewer-inner" id="viewer-inner"></div></div>
+  <div class="viewer-zoom"><button id="zoom-out" aria-label="Zoom out">&minus;</button><button id="zoom-reset" aria-label="Fit">Fit</button><button id="zoom-in" aria-label="Zoom in">+</button></div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+<script src="app.js" defer></script>
+</body>
+</html>

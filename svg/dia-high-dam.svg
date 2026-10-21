@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 936" role="img" aria-labelledby="dia-high-dam-t dia-high-dam-d">
+<title id="dia-high-dam-t">The Aswan High Dam</title><desc id="dia-high-dam-d">Simple cross-section of the Aswan High Dam: Lake Nasser behind it to the south (about 500 km long), the embankment dam (about 3.8 km long, 111 m high, built 1960 to 1970) with a power station at its downstream foot, and the Nile below it flowing north. Note: Philae and Abu Simbel were moved because of this lake.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">The Aswan High Dam</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Simple cross-section. Not to scale.</text>
+<rect x="24.0" y="640.0" width="952.0" height="70.0" rx="0" fill="#DDD3C2" stroke="none" stroke-width="0"/>
+<polygon points="24.0,380.0 420.0,380.0 232.0,640.0 24.0,640.0" fill="#CFE0E6" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="24.0" y1="380.0" x2="418.0" y2="380.0" stroke="#2F6F8F" stroke-width="4" stroke-linecap="round"/>
+<polygon points="760.0,590.0 976.0,590.0 976.0,640.0 760.0,640.0" fill="#CFE0E6" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="760.0" y1="590.0" x2="976.0" y2="590.0" stroke="#2F6F8F" stroke-width="4" stroke-linecap="round"/>
+<polygon points="232.0,640.0 448.0,330.0 528.0,330.0 790.0,640.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 280 520 L 640 600" fill="none" stroke="#2F6F8F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8"/>
+<rect x="640.0" y="556.0" width="120.0" height="84.0" rx="0" fill="#8A8F98" stroke="#1F2A37" stroke-width="3"/>
+<circle cx="700" cy="598" r="22" fill="#F6F0E4" stroke="#1F2A37" stroke-width="3"/>
+<path d="M 700 576 L 700 620 M 678 598 L 722 598" fill="none" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="720.0,470.0 700.0,510.0 716.0,510.0 698.0,548.0 736.0,500.0 718.0,500.0 734.0,470.0" fill="#C79A3B" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<line x1="24.0" y1="640.0" x2="976.0" y2="640.0" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/>
+<line x1="560.0" y1="330.0" x2="560.0" y2="640.0" stroke="#1F2A37" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 6"/>
+<line x1="560.0" y1="470.0" x2="560.0" y2="346.8" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/><polygon points="560.0,334.0 568.8,350.0 551.2,350.0" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="560.0" y1="500.0" x2="560.0" y2="623.2" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/><polygon points="560.0,636.0 551.2,620.0 568.8,620.0" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="546.0" y="494.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="end">111 m</text>
+<text x="40.0" y="440.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#2F6F8F" text-anchor="start">LAKE NASSER</text>
+<text x="40.0" y="476.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#1F2A37" text-anchor="start">~500 km long,</text>
+<text x="40.0" y="510.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#1F2A37" text-anchor="start">stretching south</text>
+<text x="488.0" y="214.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">HIGH DAM</text>
+<text x="488.0" y="250.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#1F2A37" text-anchor="middle">~3.8 km long, 111 m high</text>
+<text x="488.0" y="284.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#1F2A37" text-anchor="middle">built 1960 to 1970</text>
+<text x="976.0" y="450.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="end">Power station</text>
+<line x1="860.0" y1="462.0" x2="762.0" y2="560.0" stroke="#8A8F98" stroke-width="2" stroke-linecap="round"/>
+<text x="976.0" y="690.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="end"></text>
+<text x="960.0" y="570.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#2F6F8F" text-anchor="end">Nile</text>
+<text x="40.0" y="690.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="start">◀ SOUTH (upstream)</text>
+<text x="960.0" y="690.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="end">NORTH (downstream) ▶</text>
+<text x="960.0" y="760.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="end">the Nile flows north to Cairo and the sea</text>
+<rect x="40.0" y="800.0" width="920.0" height="110.0" rx="14" fill="#EFE4CC" stroke="#2F6F8F" stroke-width="3"/>
+<text x="64.0" y="846.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="start">Philae and Abu Simbel were moved</text>
+<text x="64.0" y="884.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="start">because of this lake.</text>
+</svg>

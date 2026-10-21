@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1260" role="img" aria-labelledby="dia-temple-section-t dia-temple-section-d">
+<title id="dia-temple-section-t">Into the temple, step by step</title><desc id="dia-temple-section-d">Long section through a typical Egyptian temple, using Edfu as the example, entrance on the left. From left: the pylon and gate; the open sun court under the sky; the first hall of columns; a second, smaller hall; the offering hall; the sanctuary with the god's shrine. The floor steps up and the ceiling steps down towards the sanctuary while the rooms get darker, shown by an arrow from sun and crowd to dark and god.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">Into the temple, step by step</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Long section, Edfu as the example. Not to scale.</text>
+<defs><linearGradient id="dia-temple-section-fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#F2CF6B"/><stop offset="0.45" stop-color="#C79A3B"/><stop offset="1" stop-color="#1F2A37"/></linearGradient></defs>
+<rect x="150.0" y="300.0" width="240.0" height="340.0" rx="0" fill="#FBF1D6" stroke="none" stroke-width="0"/>
+<circle cx="250" cy="250" r="34" fill="#F2CF6B" stroke="#C79A3B" stroke-width="3"/>
+<line x1="296.0" y1="250.0" x2="312.0" y2="250.0" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="282.5" y1="282.5" x2="293.8" y2="293.8" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="250.0" y1="296.0" x2="250.0" y2="312.0" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="217.5" y1="282.5" x2="206.2" y2="293.8" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="204.0" y1="250.0" x2="188.0" y2="250.0" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="217.5" y1="217.5" x2="206.2" y2="206.2" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="250.0" y1="204.0" x2="250.0" y2="188.0" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<line x1="282.5" y1="217.5" x2="293.8" y2="206.2" stroke="#C79A3B" stroke-width="4" stroke-linecap="round"/>
+<rect x="181.0" y="450.0" width="18.0" height="190.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="175.0" y="440.0" width="30.0" height="12.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="241.0" y="450.0" width="18.0" height="190.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="235.0" y="440.0" width="30.0" height="12.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="301.0" y="450.0" width="18.0" height="190.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="295.0" y="440.0" width="30.0" height="12.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="361.0" y="450.0" width="18.0" height="190.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<rect x="355.0" y="440.0" width="30.0" height="12.0" rx="0" fill="#EADBB9" stroke="#8A8F98" stroke-width="2"/>
+<line x1="170.0" y1="440.0" x2="390.0" y2="440.0" stroke="#8A8F98" stroke-width="3" stroke-linecap="round"/>
+<rect x="390.0" y="380.0" width="170.0" height="246.0" rx="0" fill="#DCCBA6" stroke="none" stroke-width="0"/>
+<rect x="382.0" y="358.0" width="186.0" height="22.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="560.0" y="430.0" width="120.0" height="182.0" rx="0" fill="#AE9C80" stroke="none" stroke-width="0"/>
+<rect x="552.0" y="408.0" width="136.0" height="22.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="680.0" y="470.0" width="110.0" height="128.0" rx="0" fill="#71675B" stroke="none" stroke-width="0"/>
+<rect x="672.0" y="448.0" width="126.0" height="22.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="790.0" y="500.0" width="170.0" height="84.0" rx="0" fill="#2C3440" stroke="none" stroke-width="0"/>
+<rect x="782.0" y="478.0" width="186.0" height="22.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="382.0" y="380.0" width="16.0" height="110.7" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="552.0" y="430.0" width="16.0" height="81.9" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="672.0" y="470.0" width="16.0" height="57.6" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="782.0" y="500.0" width="16.0" height="37.8" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="952.0" y="500.0" width="16.0" height="84.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="419.0" y="394.0" width="22.0" height="232.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2"/>
+<polygon points="408.0,380.0 452.0,380.0 441.0,396.0 419.0,396.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<rect x="464.0" y="394.0" width="22.0" height="232.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2"/>
+<polygon points="453.0,380.0 497.0,380.0 486.0,396.0 464.0,396.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<rect x="509.0" y="394.0" width="22.0" height="232.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2"/>
+<polygon points="498.0,380.0 542.0,380.0 531.0,396.0 509.0,396.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<rect x="591.0" y="444.0" width="18.0" height="168.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2"/>
+<polygon points="582.0,430.0 618.0,430.0 609.0,446.0 591.0,446.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<rect x="631.0" y="444.0" width="18.0" height="168.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2"/>
+<polygon points="622.0,430.0 658.0,430.0 649.0,446.0 631.0,446.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="2" stroke-linejoin="round"/>
+<rect x="850.0" y="520.0" width="56.0" height="64.0" rx="0" fill="#8A8F98" stroke="#F6F0E4" stroke-width="2"/>
+<polygon points="846.0,520.0 878.0,504.0 910.0,520.0" fill="#8A8F98" stroke="#F6F0E4" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="40.0,640.0 60.0,200.0 140.0,200.0 160.0,640.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<rect x="80.0" y="470.0" width="40.0" height="170.0" rx="0" fill="#FBF1D6" stroke="#1F2A37" stroke-width="3"/>
+<polygon points="24.0,640.0 390.0,640.0 390.0,626.0 560.0,626.0 560.0,612.0 680.0,612.0 680.0,598.0 790.0,598.0 790.0,584.0 976.0,584.0 976.0,676.0 24.0,676.0" fill="#D8C49C" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="100.0" cy="165.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="100.0" y="175.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<circle cx="300.0" cy="380.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="300.0" y="390.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<circle cx="475.0" cy="330.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="475.0" y="340.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<circle cx="620.0" cy="382.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="620.0" y="392.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<circle cx="735.0" cy="422.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="735.0" y="432.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<circle cx="875.0" cy="452.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="875.0" y="462.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<line x1="400.0" y1="270.0" x2="924.4" y2="391.4" stroke="#B4532A" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 8"/><polygon points="940.0,395.0 918.0,401.2 923.0,379.8" fill="#B4532A" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="560.0" y="262.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="start">ceiling gets lower</text>
+<line x1="420.0" y1="664.0" x2="922.2" y2="626.9" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/><polygon points="935.0,626.0 919.7,636.0 918.4,618.4" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="420.0" y="712.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="start">floor rises</text>
+<rect x="40.0" y="752.0" width="860.0" height="36.0" rx="6" fill="url(#dia-temple-section-fade)" stroke="none" stroke-width="0"/>
+<polygon points="966.0,770.0 896.0,808.5 896.0,731.5" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="500.0" y="834.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="middle">from sun and crowd to dark and god</text>
+<text x="500.0" y="874.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="middle">the light fades with every room</text>
+<circle cx="52.0" cy="940.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="950.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="88.0" y="950.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Pylon and gate:</tspan><tspan font-weight="400" fill="#1F2A37"> the giant front door</tspan></text>
+<circle cx="52.0" cy="994.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1004.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="88.0" y="1004.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Sun court:</tspan><tspan font-weight="400" fill="#1F2A37"> open to the sky, the brightest part</tspan></text>
+<circle cx="52.0" cy="1048.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1058.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="88.0" y="1058.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">First hall of columns:</tspan><tspan font-weight="400" fill="#1F2A37"> shade, a stone forest</tspan></text>
+<circle cx="52.0" cy="1102.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1112.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="88.0" y="1112.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Second hall:</tspan><tspan font-weight="400" fill="#1F2A37"> smaller and darker</tspan></text>
+<circle cx="52.0" cy="1156.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1166.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="88.0" y="1166.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Offering hall:</tspan><tspan font-weight="400" fill="#1F2A37"> food and gifts for the god</tspan></text>
+<circle cx="52.0" cy="1210.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1220.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="88.0" y="1220.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Sanctuary:</tspan><tspan font-weight="400" fill="#1F2A37"> the god's shrine, highest and darkest</tspan></text>
+</svg>

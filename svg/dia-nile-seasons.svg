@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1345" role="img" aria-labelledby="dia-nile-seasons-t dia-nile-seasons-d">
+<title id="dia-nile-seasons-t">The three seasons of the Nile</title><desc id="dia-nile-seasons-d">Circular calendar of the three ancient Egyptian seasons around a month ring: Akhet, the flood, about July to November, when the river covered the fields and left black mud; Peret, the growing season, about November to March, when farmers sowed and crops grew; Shemu, the harvest, about March to July, when crops were cut and the river was lowest. A note says the Aswan High Dam (1970) ended the yearly flood.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">The three seasons of the Nile</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">The ancient Egyptian farming year.</text>
+<path d="M 500.0 860.0 A 300 300 0 0 1 240.2 410.0 L 420.3 514.0 A 92 92 0 0 0 500.0 652.0 Z" fill="#BBD5DE" stroke="#F6F0E4" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 240.2 410.0 A 300 300 0 0 1 759.8 410.0 L 579.7 514.0 A 92 92 0 0 0 420.3 514.0 Z" fill="#CFDCC0" stroke="#F6F0E4" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 759.8 410.0 A 300 300 0 0 1 500.0 860.0 L 500.0 652.0 A 92 92 0 0 0 579.7 514.0 Z" fill="#EBD7A6" stroke="#F6F0E4" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="500" cy="560" r="324.5" fill="none" stroke="#E6D5B3" stroke-width="49"/>
+<text x="584.0" y="256.6" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Jan</text>
+<line x1="500.0" y1="260.0" x2="500.0" y2="211.0" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="729.5" y="340.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Feb</text>
+<line x1="650.0" y1="300.2" x2="674.5" y2="257.8" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="813.4" y="486.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Mar</text>
+<line x1="759.8" y1="410.0" x2="802.2" y2="385.5" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="813.4" y="654.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Apr</text>
+<line x1="800.0" y1="560.0" x2="849.0" y2="560.0" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="729.5" y="799.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">May</text>
+<line x1="759.8" y1="710.0" x2="802.2" y2="734.5" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="584.0" y="883.4" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Jun</text>
+<line x1="650.0" y1="819.8" x2="674.5" y2="862.2" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="416.0" y="883.4" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Jul</text>
+<line x1="500.0" y1="860.0" x2="500.0" y2="909.0" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="270.5" y="799.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Aug</text>
+<line x1="350.0" y1="819.8" x2="325.5" y2="862.2" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="186.6" y="654.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Sep</text>
+<line x1="240.2" y1="710.0" x2="197.8" y2="734.5" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="186.6" y="486.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Oct</text>
+<line x1="200.0" y1="560.0" x2="151.0" y2="560.0" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="270.5" y="340.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Nov</text>
+<line x1="240.2" y1="410.0" x2="197.8" y2="385.5" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="416.0" y="256.6" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Dec</text>
+<line x1="350.0" y1="300.2" x2="325.5" y2="257.8" stroke="#F6F0E4" stroke-width="3" stroke-linecap="round"/>
+<text x="322.5" y="632.5" font-family="Fraunces, Georgia, serif" font-size="40" font-weight="700" fill="#1F2A37" text-anchor="middle">Akhet</text>
+<text x="322.5" y="666.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#2F6F8F" text-anchor="middle">flood</text>
+<path d="M 286.4647922241901 700.5 q 9 -10 18 0 t 18 0 t 18 0 t 18 0" fill="none" stroke="#2F6F8F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 286.4647922241901 714.5 q 9 -10 18 0 t 18 0 t 18 0 t 18 0" fill="none" stroke="#2F6F8F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 286.4647922241901 728.5 q 9 -10 18 0 t 18 0 t 18 0 t 18 0" fill="none" stroke="#2F6F8F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="325.0" font-family="Fraunces, Georgia, serif" font-size="40" font-weight="700" fill="#1F2A37" text-anchor="middle">Peret</text>
+<text x="500.0" y="359.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#5C7F4D" text-anchor="middle">growing</text>
+<path d="M 499.99999999999994 429.0 L 499.99999999999994 389.0" fill="none" stroke="#5C7F4D" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 499.99999999999994 405.0 C 473.99999999999994 399.0 469.99999999999994 379.0 473.99999999999994 377.0 C 491.99999999999994 381.0 497.99999999999994 391.0 499.99999999999994 405.0 Z" fill="#5C7F4D" stroke="#5C7F4D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 499.99999999999994 413.0 C 526.0 407.0 530.0 387.0 526.0 385.0 C 507.99999999999994 389.0 501.99999999999994 399.0 499.99999999999994 413.0 Z" fill="#5C7F4D" stroke="#5C7F4D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="476.0" y1="429.0" x2="524.0" y2="429.0" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/>
+<text x="677.5" y="632.5" font-family="Fraunces, Georgia, serif" font-size="40" font-weight="700" fill="#1F2A37" text-anchor="middle">Shemu</text>
+<text x="677.5" y="666.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#C79A3B" text-anchor="middle">harvest</text>
+<path d="M 677.5352077758099 738.5 L 677.5352077758099 688.5" fill="none" stroke="#C79A3B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="670.5352077758099" cy="692.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(-30 670.5352077758099 692.5)"/>
+<ellipse cx="684.5352077758099" cy="692.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(30 684.5352077758099 692.5)"/>
+<ellipse cx="670.5352077758099" cy="703.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(-30 670.5352077758099 703.5)"/>
+<ellipse cx="684.5352077758099" cy="703.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(30 684.5352077758099 703.5)"/>
+<ellipse cx="670.5352077758099" cy="714.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(-30 670.5352077758099 714.5)"/>
+<ellipse cx="684.5352077758099" cy="714.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(30 684.5352077758099 714.5)"/>
+<ellipse cx="670.5352077758099" cy="725.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(-30 670.5352077758099 725.5)"/>
+<ellipse cx="684.5352077758099" cy="725.5" rx="6" ry="9" fill="#C79A3B" transform="rotate(30 684.5352077758099 725.5)"/>
+<text x="500.0" y="556.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Nile</text>
+<text x="500.0" y="588.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#1F2A37" text-anchor="middle">year</text>
+<rect x="40.0" y="949.0" width="14.0" height="72.0" rx="4" fill="#2F6F8F" stroke="none" stroke-width="0"/>
+<text x="70.0" y="975.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Akhet, flood</tspan><tspan font-weight="400" fill="#1F2A37"> (about July to November)</tspan></text>
+<text x="70.0" y="1013.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">The river covers the fields and leaves rich black mud.</text>
+<rect x="40.0" y="1049.0" width="14.0" height="72.0" rx="4" fill="#5C7F4D" stroke="none" stroke-width="0"/>
+<text x="70.0" y="1075.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Peret, growing</tspan><tspan font-weight="400" fill="#1F2A37"> (about November to March)</tspan></text>
+<text x="70.0" y="1113.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">The water goes down; farmers sow and the crops grow.</text>
+<rect x="40.0" y="1149.0" width="14.0" height="72.0" rx="4" fill="#C79A3B" stroke="none" stroke-width="0"/>
+<text x="70.0" y="1175.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Shemu, harvest</tspan><tspan font-weight="400" fill="#1F2A37"> (about March to July)</tspan></text>
+<text x="70.0" y="1213.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">Crops are cut and the river is at its lowest.</text>
+<rect x="40.0" y="1255.0" width="920.0" height="64.0" rx="12" fill="#EFE4CC" stroke="#2F6F8F" stroke-width="3"/>
+<text x="500.0" y="1297.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">The Aswan High Dam (1970) ended the yearly flood.</text>
+</svg>

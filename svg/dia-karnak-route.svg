@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1362" role="img" aria-labelledby="dia-karnak-route-t dia-karnak-route-d">
+<title id="dia-karnak-route-t">Karnak: the main axis, west to east</title><desc id="dia-karnak-route-d">East-west schematic of the main axis of the Amun precinct at Karnak, north up, the Nile on the west. Numbered stops in the usual order: 1 avenue of ram-headed sphinxes, 2 First Pylon, 3 Great Court with the Kiosk of Taharqa in the middle, the Temple of Seti II to the north and the Temple of Ramesses III to the south, 4 Second Pylon, 5 Great Hypostyle Hall with 134 columns, 6 obelisks between the Fourth and Fifth Pylons including Hatshepsut's, 7 the Sacred Lake and giant scarab south of the axis, 8 the Festival Hall of Thutmose III at the east end. The axis leads from the Nile inland; the walking route is up to the guide.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">Karnak: the main axis, west to east</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Schematic, not to scale. North is up.</text>
+<path d="M 24 250 L 70 250 C 96 420 60 600 92 780 L 24 780 Z" fill="#CFE0E6" stroke="#2F6F8F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="54" y="500" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#2F6F8F" text-anchor="middle" transform="rotate(-90 54 500)">Nile</text>
+<rect x="186.0" y="300.0" width="768.0" height="460.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<rect x="104.0" y="450.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="104.0" y="508.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="122.0" y="450.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="122.0" y="508.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="140.0" y="450.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="140.0" y="508.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="158.0" y="450.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<rect x="158.0" y="508.0" width="12.0" height="22.0" rx="3" fill="#1F2A37" stroke="none" stroke-width="0"/>
+<circle cx="240" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="240" cy="522" r="6" fill="#1F2A37"/>
+<circle cx="266" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="266" cy="522" r="6" fill="#1F2A37"/>
+<circle cx="292" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="292" cy="522" r="6" fill="#1F2A37"/>
+<circle cx="318" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="318" cy="522" r="6" fill="#1F2A37"/>
+<circle cx="344" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="344" cy="522" r="6" fill="#1F2A37"/>
+<circle cx="370" cy="458" r="6" fill="#1F2A37"/>
+<circle cx="370" cy="522" r="6" fill="#1F2A37"/>
+<rect x="214.0" y="330.0" width="54.0" height="62.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="282.0" y="595.0" width="88.0" height="130.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="414.0" y="360.0" width="146.0" height="260.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<circle cx="427" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="427" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="447" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="467" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="487" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="507" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="527" cy="599" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="382" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="413" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="444" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="475" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="506" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="537" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="568" r="5" fill="#1F2A37"/>
+<circle cx="547" cy="599" r="5" fill="#1F2A37"/>
+<rect x="790.0" y="370.0" width="140.0" height="240.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<circle cx="812" cy="440" r="5" fill="#1F2A37"/>
+<circle cx="812" cy="540" r="5" fill="#1F2A37"/>
+<circle cx="836" cy="440" r="5" fill="#1F2A37"/>
+<circle cx="836" cy="540" r="5" fill="#1F2A37"/>
+<circle cx="860" cy="440" r="5" fill="#1F2A37"/>
+<circle cx="860" cy="540" r="5" fill="#1F2A37"/>
+<circle cx="884" cy="440" r="5" fill="#1F2A37"/>
+<circle cx="884" cy="540" r="5" fill="#1F2A37"/>
+<circle cx="908" cy="440" r="5" fill="#1F2A37"/>
+<circle cx="908" cy="540" r="5" fill="#1F2A37"/>
+<rect x="191.0" y="318.0" width="18.0" height="344.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="189.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<text x="200.0" y="304.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">1st</text>
+<rect x="393.0" y="340.0" width="18.0" height="300.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="391.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<text x="402.0" y="326.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">2nd</text>
+<rect x="565.0" y="394.0" width="18.0" height="192.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="563.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<rect x="599.0" y="404.0" width="18.0" height="172.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="597.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<text x="608.0" y="390.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">4th</text>
+<rect x="643.0" y="414.0" width="18.0" height="152.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="641.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<text x="656.0" y="600.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">5th</text>
+<rect x="669.0" y="424.0" width="18.0" height="132.0" rx="0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3"/>
+<rect x="667.0" y="477.0" width="22.0" height="26.0" rx="0" fill="#EFE4CC" stroke="none" stroke-width="0"/>
+<rect x="623" y="438" width="14" height="14" fill="#B4532A" stroke="#1F2A37" stroke-width="2"/>
+<rect x="623" y="528" width="14" height="14" fill="none" stroke="#B4532A" stroke-width="3" stroke-dasharray="4 3"/>
+<rect x="706.0" y="630.0" width="200.0" height="76.0" rx="6" fill="#CFE0E6" stroke="#2F6F8F" stroke-width="3"/>
+<text x="806.0" y="678.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#2F6F8F" text-anchor="middle">Sacred Lake</text>
+<ellipse cx="684" cy="642" rx="11" ry="15" fill="#1F2A37"/>
+<line x1="96.0" y1="490.0" x2="948.8" y2="490.0" stroke="#B4532A" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 10"/><polygon points="968.0,490.0 944.0,503.2 944.0,476.8" fill="#B4532A" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="278.0" y="372.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="start">Seti II</text>
+<text x="326.0" y="758.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="middle">Ramesses III</text>
+<text x="664.0" y="658.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#1F2A37" text-anchor="end">scarab</text>
+<circle cx="140.0" cy="408.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="140.0" y="418.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<circle cx="200.0" cy="700.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="200.0" y="710.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<circle cx="306.0" cy="490.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="306.0" y="500.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<circle cx="402.0" cy="674.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="402.0" y="684.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<circle cx="487.0" cy="324.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="487.0" y="334.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<circle cx="630.0" cy="350.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="630.0" y="360.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<circle cx="640.0" cy="704.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="640.0" y="714.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<circle cx="860.0" cy="334.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="860.0" y="344.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<g transform="translate(915.0,210.0) rotate(0)"><polygon points="0,-28.0 12.32,28.0 0,15.680000000000001 -12.32,28.0" fill="#1F2A37"/></g><text x="915.0" y="171.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">N</text>
+<text x="500.0" y="820.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">The axis leads from the Nile inland, west to east.</text>
+<circle cx="52.0" cy="876.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="886.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="88.0" y="886.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Avenue of ram-headed sphinxes</tspan></text>
+<circle cx="52.0" cy="920.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="930.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="88.0" y="930.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">First Pylon</tspan></text>
+<circle cx="52.0" cy="964.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="974.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="88.0" y="974.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Great Court:</tspan><tspan font-weight="400" fill="#1F2A37"> Kiosk of Taharqa in the middle,</tspan></text>
+<text x="88.0" y="1018.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">Seti II to the north, Ramesses III to the south</text>
+<circle cx="52.0" cy="1052.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1062.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="88.0" y="1062.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Second Pylon</tspan></text>
+<circle cx="52.0" cy="1096.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1106.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="88.0" y="1106.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Great Hypostyle Hall:</tspan><tspan font-weight="400" fill="#1F2A37"> 134 columns</tspan></text>
+<circle cx="52.0" cy="1140.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1150.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="88.0" y="1150.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Obelisks</tspan><tspan font-weight="400" fill="#1F2A37"> between the 4th and 5th Pylons</tspan></text>
+<circle cx="52.0" cy="1184.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1194.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="88.0" y="1194.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Sacred Lake and giant scarab,</tspan><tspan font-weight="400" fill="#1F2A37"> south of the axis</tspan></text>
+<circle cx="52.0" cy="1228.0" r="23" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="52.0" y="1238.1" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<text x="88.0" y="1238.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" text-anchor="start" xml:space="preserve"><tspan font-weight="700" fill="#1F2A37">Festival Hall of Thutmose III</tspan></text>
+<text x="40.0" y="1292.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">Obelisks: Hatshepsut's still stands, a fallen one lies beside it.</text>
+<text x="40.0" y="1334.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="start">The walking route is up to your guide, this shows the logic.</text>
+</svg>

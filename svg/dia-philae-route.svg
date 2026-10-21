@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1232" role="img" aria-labelledby="dia-philae-route-t dia-philae-route-d">
+<title id="dia-philae-route-t">Philae: the visit in order</title><desc id="dia-philae-route-d">Linear route of the Philae visit with eight numbered stops: 1 boat from the landing to Agilkia Island, 2 Kiosk of Nectanebo and the west colonnade, 3 First Pylon, 4 court with the Birth House (Mammisi), 5 Second Pylon, 6 hall and sanctuary of Isis, 7 Gate of Hadrian and the Osiris rooms, 8 Trajan's Kiosk by the water as the last view. A ribbon notes that the original Philae island is under the lake and the temples stand on Agilkia, moved in the 1970s.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">Philae: the visit in order</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Route diagram. Not to scale.</text>
+<rect x="24.0" y="150.0" width="952.0" height="112.0" rx="14" fill="#2F6F8F" stroke="none" stroke-width="0"/>
+<text x="500.0" y="196.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">The original Philae island is under the lake.</text>
+<text x="500.0" y="234.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#FFFFFF" text-anchor="middle">The temples stand on Agilkia, moved there in the 1970s.</text>
+<path d="M 70 340 C 96 370 44 400 70 426 C 88 440 70 456 70 456" fill="none" stroke="#2F6F8F" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="70.0" y1="456.0" x2="70.0" y2="1152.0" stroke="#B4532A" stroke-width="7" stroke-linecap="round"/>
+<circle cx="70.0" cy="340.0" r="26" fill="#2F6F8F" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="350.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="120.0" y="342.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Boat to Agilkia Island</text>
+<text x="120.0" y="380.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">a short motorboat ride from the landing</text>
+<circle cx="70.0" cy="456.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="466.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="120.0" y="458.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Kiosk of Nectanebo, west colonnade</text>
+<text x="120.0" y="496.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the first building, then a long row of columns</text>
+<circle cx="70.0" cy="572.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="582.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="120.0" y="574.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">First Pylon</text>
+<text x="120.0" y="612.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the great gateway of the temple of Isis</text>
+<circle cx="70.0" cy="688.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="698.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="120.0" y="690.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Court and the Birth House (Mammisi)</text>
+<text x="120.0" y="728.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">it celebrates the birth of Horus, son of Isis</text>
+<circle cx="70.0" cy="804.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="814.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="120.0" y="806.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Second Pylon</text>
+<text x="120.0" y="844.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the inner gateway</text>
+<circle cx="70.0" cy="920.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="930.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="120.0" y="922.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Hall and sanctuary of Isis</text>
+<text x="120.0" y="960.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the darkest, most sacred rooms</text>
+<circle cx="70.0" cy="1036.0" r="26" fill="#B4532A" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="1046.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="120.0" y="1038.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Gate of Hadrian, Osiris rooms</text>
+<text x="120.0" y="1076.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">a Roman gate; rooms for Osiris, Isis's husband</text>
+<circle cx="70.0" cy="1152.0" r="26" fill="#2F6F8F" stroke="#F6F0E4" stroke-width="3"/><text x="70.0" y="1162.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<text x="120.0" y="1154.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="start">Trajan's Kiosk by the water</text>
+<text x="120.0" y="1192.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the last view, the classic photo</text>
+<text x="24.0" y="408.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#2F6F8F" text-anchor="start"></text>
+</svg>

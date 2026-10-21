@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1030" role="img" aria-labelledby="dia-kom-ombo-plan-t dia-kom-ombo-plan-d">
+<title id="dia-kom-ombo-plan-t">Kom Ombo: one temple, two gods</title><desc id="dia-kom-ombo-plan-d">Plan of the double temple of Kom Ombo with north at the top and the Nile on the entrance side. A dashed centre line splits it: the north half belongs to Haroeris (Horus the Elder, falcon-headed, sky and war god), the south half to Sobek (crocodile god of water and fertility). Two entrances lead along two aisles through the halls to two sanctuaries at the back, inside shared outer walls: twin doors, twin halls, twin sanctuaries.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">Kom Ombo: one temple, two gods</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Plan. Not to scale.</text>
+<path d="M 24 250 L 76 250 C 100 420 64 600 96 800 L 24 800 Z" fill="#CFE0E6" stroke="#2F6F8F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="58" y="560" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#2F6F8F" text-anchor="middle" transform="rotate(-90 58 560)">Nile</text>
+<rect x="150.0" y="330.0" width="780.0" height="195.0" rx="0" fill="#D7E5EA" stroke="none" stroke-width="0"/>
+<rect x="150.0" y="525.0" width="780.0" height="195.0" rx="0" fill="#DDE6D2" stroke="none" stroke-width="0"/>
+<circle cx="190" cy="368" r="7" fill="#1F2A37"/>
+<circle cx="190" cy="485" r="7" fill="#1F2A37"/>
+<circle cx="190" cy="565" r="7" fill="#1F2A37"/>
+<circle cx="190" cy="682" r="7" fill="#1F2A37"/>
+<circle cx="250" cy="368" r="7" fill="#1F2A37"/>
+<circle cx="250" cy="485" r="7" fill="#1F2A37"/>
+<circle cx="250" cy="565" r="7" fill="#1F2A37"/>
+<circle cx="250" cy="682" r="7" fill="#1F2A37"/>
+<line x1="300.0" y1="330.0" x2="300.0" y2="400.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="300.0" y1="450.0" x2="300.0" y2="600.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="300.0" y1="650.0" x2="300.0" y2="720.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="470.0" y1="330.0" x2="470.0" y2="400.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="470.0" y1="450.0" x2="470.0" y2="600.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="470.0" y1="650.0" x2="470.0" y2="720.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="600.0" y1="330.0" x2="600.0" y2="400.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="600.0" y1="450.0" x2="600.0" y2="600.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="600.0" y1="650.0" x2="600.0" y2="720.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="700.0" y1="330.0" x2="700.0" y2="400.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="700.0" y1="450.0" x2="700.0" y2="600.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="700.0" y1="650.0" x2="700.0" y2="720.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="800.0" y1="330.0" x2="800.0" y2="400.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="800.0" y1="450.0" x2="800.0" y2="600.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<line x1="800.0" y1="650.0" x2="800.0" y2="720.0" stroke="#1F2A37" stroke-width="6" stroke-linecap="butt"/>
+<circle cx="342" cy="360" r="7" fill="#1F2A37"/>
+<circle cx="342" cy="470" r="7" fill="#1F2A37"/>
+<circle cx="342" cy="580" r="7" fill="#1F2A37"/>
+<circle cx="342" cy="690" r="7" fill="#1F2A37"/>
+<circle cx="385" cy="360" r="7" fill="#1F2A37"/>
+<circle cx="385" cy="470" r="7" fill="#1F2A37"/>
+<circle cx="385" cy="580" r="7" fill="#1F2A37"/>
+<circle cx="385" cy="690" r="7" fill="#1F2A37"/>
+<circle cx="428" cy="360" r="7" fill="#1F2A37"/>
+<circle cx="428" cy="470" r="7" fill="#1F2A37"/>
+<circle cx="428" cy="580" r="7" fill="#1F2A37"/>
+<circle cx="428" cy="690" r="7" fill="#1F2A37"/>
+<circle cx="513" cy="360" r="7" fill="#1F2A37"/>
+<circle cx="513" cy="470" r="7" fill="#1F2A37"/>
+<circle cx="513" cy="580" r="7" fill="#1F2A37"/>
+<circle cx="513" cy="690" r="7" fill="#1F2A37"/>
+<circle cx="557" cy="360" r="7" fill="#1F2A37"/>
+<circle cx="557" cy="470" r="7" fill="#1F2A37"/>
+<circle cx="557" cy="580" r="7" fill="#1F2A37"/>
+<circle cx="557" cy="690" r="7" fill="#1F2A37"/>
+<rect x="788.0" y="380.0" width="134.0" height="90.0" rx="0" fill="#2F6F8F" stroke="#1F2A37" stroke-width="3"/>
+<rect x="788.0" y="580.0" width="134.0" height="90.0" rx="0" fill="#5C7F4D" stroke="#1F2A37" stroke-width="3"/>
+<text x="855.0" y="435.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">Haroeris</text>
+<text x="855.0" y="635.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">Sobek</text>
+<line x1="150.0" y1="525.0" x2="930.0" y2="525.0" stroke="#1F2A37" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 10"/>
+<rect x="150.0" y="330.0" width="780.0" height="390.0" rx="0" fill="none" stroke="#1F2A37" stroke-width="8"/>
+<rect x="144.0" y="401.0" width="12.0" height="48.0" rx="0" fill="#D7E5EA" stroke="none" stroke-width="0"/>
+<rect x="144.0" y="601.0" width="12.0" height="48.0" rx="0" fill="#DDE6D2" stroke="none" stroke-width="0"/>
+<line x1="110.0" y1="425.0" x2="762.4" y2="425.0" stroke="#1F2A37" stroke-width="4" stroke-linecap="round"/><polygon points="780.0,425.0 758.0,437.1 758.0,412.9" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="110.0" y1="625.0" x2="762.4" y2="625.0" stroke="#1F2A37" stroke-width="4" stroke-linecap="round"/><polygon points="780.0,625.0 758.0,637.1 758.0,612.9" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="150.0" y="196.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#2F6F8F" text-anchor="start">NORTH half: Haroeris</text>
+<text x="150.0" y="232.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">Horus the Elder, falcon-headed</text>
+<text x="150.0" y="266.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">god of the sky and of war</text>
+<text x="150.0" y="768.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#5C7F4D" text-anchor="start">SOUTH half: Sobek</text>
+<text x="150.0" y="804.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">the crocodile god</text>
+<text x="150.0" y="838.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="start">of water and fertility</text>
+<g transform="translate(900.0,210.0) rotate(0)"><polygon points="0,-30.0 13.2,30.0 0,16.8 -13.2,30.0" fill="#1F2A37"/></g><text x="900.0" y="169.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">N</text>
+<text x="500.0" y="910.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" fill="#1F2A37" text-anchor="middle">twin doors, twin halls, twin sanctuaries</text>
+<text x="500.0" y="950.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="middle">The temple faces the Nile. Both gods share the outer walls.</text>
+<text x="500.0" y="986.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="middle">Dashed line: the centre line between the two halves.</text>
+</svg>

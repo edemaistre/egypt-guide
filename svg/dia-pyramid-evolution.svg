@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1066" role="img" aria-labelledby="dia-pyramid-evolution-t dia-pyramid-evolution-d">
+<title id="dia-pyramid-evolution-t">A century of trial and error</title><desc id="dia-pyramid-evolution-d">Side-view silhouettes of seven pyramids to a common scale on two ground lines. Row one: Djoser's Step Pyramid, about 62 m, six steps, c.2670 BC; Meidum, originally about 92 m, now a tower, Sneferu c.2600 BC; Bent Pyramid, about 105 m, slope changing from about 54 to about 43 degrees halfway up; Red Pyramid, about 104 m at about 43 degrees, the first true smooth-sided pyramid. Row two: Khufu's Great Pyramid, originally about 147 m at about 52 degrees, c.2560 BC; Khafre's, about 144 m, on higher ground so it looks taller, c.2530 BC; Menkaure's, about 65 m, lower courses in red granite, c.2510 BC. A tiny person at Khufu's foot shows the scale.</desc>
+<text x="40.0" y="70.0" font-family="Fraunces, Georgia, serif" font-size="44" font-weight="600" fill="#1F2A37" text-anchor="start">A century of trial and error</text>
+<text x="40.0" y="114.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Seven pyramids, side view, all drawn to the same scale</text>
+<line x1="24.0" y1="300.0" x2="976.0" y2="300.0" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/>
+<polygon points="206.5,300.0 202.5,289.1 198.6,289.1 194.6,278.3 190.6,278.3 186.6,267.4 182.7,267.4 178.7,256.6 174.8,256.6 170.8,245.8 166.8,245.8 162.8,234.9 123.2,234.9 119.2,245.8 115.2,245.8 111.2,256.6 107.3,256.6 103.3,267.4 99.4,267.4 95.4,278.3 91.4,278.3 87.4,289.1 83.5,289.1 79.5,300.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="143.0" y="220.9" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~62 m</text>
+<polygon points="305.4,300.0 381.0,203.4 456.6,300.0" fill="none" stroke="#8A8F98" stroke-width="3" stroke-linejoin="round" stroke-dasharray="9 7"/>
+<polygon points="305.4,300.0 334.8,279.0 427.2,279.0 456.6,300.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="345.3,279.0 348.4,249.6 355.8,249.6 358.9,232.8 403.1,232.8 406.2,249.6 413.6,249.6 416.7,279.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="381.0" y="189.4" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~92 m</text>
+<polygon points="520.3,300.0 561.3,243.5 619.0,189.8 676.7,243.5 717.7,300.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<line x1="561.3" y1="243.5" x2="676.7" y2="243.5" stroke="#8A8F98" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 6"/>
+<text x="619.0" y="175.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~105 m</text>
+<text x="713.2" y="281.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#B4532A" text-anchor="start">54°</text>
+<text x="665.8" y="224.6" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#B4532A" text-anchor="start">43°</text>
+<polygon points="741.5,300.0 857.0,190.8 972.5,300.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="857.0" y="176.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~104 m</text>
+<text x="922.1" y="230.7" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#B4532A" text-anchor="start">43°</text>
+<text x="143.0" y="344.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Step Pyramid</text>
+<text x="143.0" y="380.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Djoser</text>
+<text x="143.0" y="414.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">c.2670 BC</text>
+<text x="143.0" y="448.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">First pyramid:</text>
+<text x="143.0" y="482.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">six stone steps</text>
+<text x="381.0" y="344.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Meidum</text>
+<text x="381.0" y="380.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Sneferu</text>
+<text x="381.0" y="414.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">c.2600 BC</text>
+<text x="381.0" y="448.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">Steps filled in</text>
+<text x="381.0" y="482.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">to smooth it;</text>
+<text x="381.0" y="516.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">now a tower</text>
+<text x="619.0" y="344.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Bent Pyramid</text>
+<text x="619.0" y="380.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Sneferu</text>
+<text x="619.0" y="414.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">c.2600 BC</text>
+<text x="619.0" y="448.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">Too steep, so</text>
+<text x="619.0" y="482.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">the angle drops</text>
+<text x="619.0" y="516.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">halfway up</text>
+<text x="857.0" y="344.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Red Pyramid</text>
+<text x="857.0" y="380.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Sneferu</text>
+<text x="857.0" y="414.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">c.2600 BC</text>
+<text x="857.0" y="448.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">First true</text>
+<text x="857.0" y="482.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">smooth-sided</text>
+<text x="857.0" y="516.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">pyramid</text>
+<line x1="24.0" y1="760.0" x2="976.0" y2="760.0" stroke="#1F2A37" stroke-width="3" stroke-linecap="round"/>
+<polygon points="61.2,760.0 182.0,605.6 302.8,760.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="182.0" y="591.6" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~147 m</text>
+<text x="100.1" y="705.4" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#B4532A" text-anchor="end">52°</text>
+<polygon points="387.1,760.0 500.0,608.8 612.9,760.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="500.0" y="594.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~144 m</text>
+<polygon points="763.4,760.0 818.0,691.8 872.6,760.0" fill="#E6D5B3" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="818.0" y="677.8" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1F2A37" text-anchor="middle">~65 m</text>
+<polygon points="763.4,760.0 775.2,745.3 860.8,745.3 872.6,760.0" fill="#C98B73" stroke="#1F2A37" stroke-width="3" stroke-linejoin="round"/>
+<text x="182.0" y="804.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Great Pyramid</text>
+<text x="182.0" y="840.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Khufu, c.2560 BC</text>
+<text x="182.0" y="874.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">The giant: biggest</text>
+<text x="182.0" y="908.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">of them all</text>
+<text x="500.0" y="804.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Khafre's pyramid</text>
+<text x="500.0" y="840.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Khafre, c.2530 BC</text>
+<text x="500.0" y="874.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">A bit smaller, but on</text>
+<text x="500.0" y="908.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">higher ground, so</text>
+<text x="500.0" y="942.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">it looks taller</text>
+<text x="818.0" y="804.0" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="700" fill="#1F2A37" text-anchor="middle">Menkaure's pyramid</text>
+<text x="818.0" y="840.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#B4532A" text-anchor="middle">Menkaure, c.2510 BC</text>
+<text x="818.0" y="874.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">Much smaller;</text>
+<text x="818.0" y="908.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">lower courses cased</text>
+<text x="818.0" y="942.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#1F2A37" text-anchor="middle">in red granite</text>
+<circle cx="330.0" cy="757.5" r="0.3" fill="#1F2A37"/><polygon points="329.7,757.8 330.3,757.8 330.3,758.8 330.2,760.0 330.0,760.0 330.0,758.9 330.0,760.0 329.8,760.0 329.7,758.8" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="330" cy="758" r="9" fill="none" stroke="#B4532A" stroke-width="2.5"/>
+<line x1="333.0" y1="750.0" x2="344.0" y2="706.0" stroke="#B4532A" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="352" cy="668" r="40" fill="#F6F0E4" stroke="#B4532A" stroke-width="3"/>
+<line x1="322.0" y1="698.0" x2="382.0" y2="698.0" stroke="#1F2A37" stroke-width="2" stroke-linecap="round"/>
+<circle cx="352.0" cy="648.2" r="6.2" fill="#1F2A37"/><polygon points="345.3,654.3 358.7,654.3 357.0,674.5 355.9,698.0 352.6,698.0 352.0,675.6 351.4,698.0 348.1,698.0 347.0,674.5" fill="#1F2A37" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<text x="40.0" y="1010.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Red circle: a 1.7 m person at the same scale (zoomed in).</text>
+<text x="40.0" y="1046.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="400" fill="#8A8F98" text-anchor="start">Heights are original and approximate. All dates c. BC.</text>
+</svg>
