@@ -28,7 +28,7 @@
   // ---------- small helpers ----------
   function glyph(code) { const a = D.alphabet.find(x => x.code === code); return a ? a.g : ''; }
   function fmt(t) { if (!isFinite(t) || t < 0) t = 0; t = Math.floor(t); const m = Math.floor(t / 60), s = t % 60; return m + ':' + String(s).padStart(2, '0'); }
-  function mins(e) { return e.dur ? Math.max(1, Math.round(e.dur / 60)) + ' min' : (e.kind === 'long' ? 'about 10 min' : 'about 5 min'); }
+  function mins(e) { return e.dur ? Math.max(1, Math.round(e.dur / 60)) + ' min' : (e.kind === 'long' ? 'about 10 min' : e.kind === 'walk' ? 'about 6 min' : 'about 5 min'); }
   function toast(msg, action) {
     const t = $('#toast'); t.innerHTML = esc(msg) + (action ? ` <button type="button">${esc(action.label)}</button>` : '');
     t.hidden = false; clearTimeout(toast._t);
@@ -70,9 +70,9 @@
   function epInner(id, big, withSave) {
     const e = EP[id]; if (!e) return '';
     const coming = !e.available, played = LS.get('played', {})[id], cur = player.cur === id, on = cur && !audio.paused;
-    const meta = `${e.kind === 'long' ? 'Story' : 'Short'} &middot; ${mins(e)}${coming ? ' &middot; coming soon' : ''}${played ? ' &middot; <em>played</em>' : ''}${on ? ' &middot; <em>now playing</em>' : ''}`;
+    const meta = `${e.kind === 'long' ? 'Story' : e.kind === 'walk' ? 'Guide walk' : 'Short'} &middot; ${mins(e)}${coming ? ' &middot; coming soon' : ''}${played ? ' &middot; <em>played</em>' : ''}${on ? ' &middot; <em>now playing</em>' : ''}`;
     const btn = `<button type="button" class="ep${big ? ' big' : ''}${coming ? ' coming' : ''}${cur ? ' playing' : ''}" data-play="${id}"${coming ? ' aria-disabled="true"' : ''} aria-label="${on ? 'Pause' : 'Play'} ${esc(e.title)}">` +
-      `<span class="pb${e.kind === 'long' ? ' long' : ''}">${on ? ICON.pause : ICON.play}</span><span class="tx"><b>${esc(e.title)}</b><span>${meta}</span></span></button>`;
+      `<span class="pb${e.kind === 'long' ? ' long' : e.kind === 'walk' ? ' walk' : ''}">${on ? ICON.pause : ICON.play}</span><span class="tx"><b>${esc(e.title)}</b><span>${meta}</span></span></button>`;
     if (!withSave || coming) return btn;
     const saved = state.audioSaved.has(id);
     const prog = state.progress && state.progress.ep === id ? Math.round(state.progress.frac * 100) + '%' : null;
@@ -213,6 +213,7 @@
   function vHome() {
     const rd = realDay(), pk = pickedDay(), n = pk || rd.n, day = D.days[n - 1];
     const install = isStandalone() ? '' : `<section class="card install-card"><div class="card-h">Put it on your iPhone</div><p>Add the guide to your Home Screen in Safari, then save it for offline use. Three taps.</p><a class="btn" href="#/install">Show me how</a></section>`;
+    const fresh = D.deepCount && !LS.get('v2seen', false) ? `<section class="card new-card"><div class="card-h">New: the in-depth guide</div><p>${D.deepCount} sites now have a guide who walks you through them: stop by stop, where to stand for the family photo, details to find, and time on your own. Look for the green <b>Guide walk</b> audio on each site page.</p><button type="button" class="btn ghost" data-act="dismiss-new">Got it</button></section>` : '';
     let pre = '';
     if (rd.before) { const k = -rd.diff + 1; pre = `<p class="pre">Day 1 starts Wed 21 Oct. ${k === 1 ? 'Tomorrow.' : k + ' days to go.'}</p>`; }
     else if (rd.after) pre = `<p class="pre">The trip is over. Day 11 is shown.</p>`;
@@ -225,7 +226,7 @@
     const qt = questTotals();
     const days = D.days.map(d => `<a class="day-row${d.n === rd.n && !rd.before && !rd.after ? ' now' : ''}" href="#/day/${d.n}"><span class="d">Day ${d.n}</span><span class="t"><b>${esc(d.date)}</b>${nb(d.plan)}</span></a>`).join('');
     return `<div class="hero-title"><h1>Egypt</h1><p>Family field guide &middot; 21 to 31 October 2026</p></div>
-      ${install}
+      ${install}${fresh}
       <section class="today"><span class="kicker">${label} &middot; ${esc(day.date)}</span>${pre}
         <h2>${n === 11 ? esc(D.lastday.title) : 'Day ' + n}</h2><p class="plan">${nb(day.plan)}</p>
         <div class="picker" role="group" aria-label="Pick a day">${picker}</div>
@@ -250,7 +251,7 @@
       </div>
       <h2 class="sec-h">The route</h2>${diagram('map-egypt-route')}
       ${D.pdf ? `<section class="card"><div class="card-h">PDF version, same content</div><p class="small">About ${mb((D.guideAssets.find(a => a.u === D.pdf) || { s: 0 }).s)} MB. It opens in Safari: tap Share, then Save to Files, to keep a copy on the phone.</p><a class="btn ghost" href="${esc(D.pdf)}" target="_blank" rel="noopener">Open the PDF</a></section>` : ''}
-      <p class="foot">Version ${esc(D.version)} &middot; built ${esc(D.built)}</p>`;
+      <p class="foot">Version ${esc(D.version)} &middot; built ${esc(D.built)}<br><button type="button" class="linkbtn" data-act="check-update">Check for updates</button></p>`;
   }
 
   function vDay(n) {
@@ -270,6 +271,41 @@
   function acc(key, title, body, open, extra) {
     return `<details class="acc" data-acc="${key}"${open ? ' open' : ''}><summary>${esc(title)}${extra ? ` <small>${extra}</small>` : ''}</summary><div class="acc-b">${body}</div></details>`;
   }
+
+  // ---------- deep guide (v2): the visit, stop by stop ----------
+  function para(label, text) { return text ? `<p class="lbl-p"><span class="lbl">${esc(label)}</span>${nb(text)}</p>` : ''; }
+  function stopHtml(st, i, open) {
+    const spots = (st.spot || []).length ? `<div class="spots"><span class="lbl">Find right here</span><ul>${st.spot.map(x => `<li>${nb(x)}</li>`).join('')}</ul></div>` : '';
+    return `<details class="stop"${open ? ' open' : ''}><summary><span class="sn">${i + 1}</span><span class="st"><b>${esc(st.title)}</b><span>${nb(st.where || '')}</span></span></summary>
+      <div class="stop-b">${st.img ? figure(st.img) : ''}${para('What you are looking at', st.look)}${para('The story', st.story)}${spots}
+      ${st.photo ? `<p class="tipbox photo"><span class="lbl">Photo</span>${nb(st.photo)}</p>` : ''}${st.ask ? `<p class="tipbox ask"><span class="lbl">Ask your guide</span>${nb(st.ask)}</p>` : ''}</div></details>`;
+  }
+  const KIND = { family: 'Family', portrait: 'Portrait', landscape: 'Landscape', detail: 'Detail', wide: 'Wide', 'golden-hour': 'Golden hour', fun: 'Fun' };
+  function deepHtml(s) {
+    const d = s.deep; if (!d) return '';
+    const b = d.briefing || {};
+    const li = a => '<ul>' + (a || []).map(x => `<li>${nb(x)}</li>`).join('') + '</ul>';
+    const items = a => (a || []).map(x => `<div class="item"><b>${esc(x.t)}.</b> ${nb(x.d)}</div>`).join('');
+    const kidsDone = LS.get('kids', {})[s.id] || [];
+    const briefing = `<p>${nb(b.intro || '')}</p>${items(b.know)}${(b.numbers || []).length ? `<div class="numbers">${b.numbers.map(n => `<div class="chip"><span>${esc(n[0])}</span><b>${nb(n[1])}</b></div>`).join('')}</div>` : ''}`;
+    const alone = `<p>${nb((d.alone || {}).intro || '')}</p>${((d.alone || {}).plans || []).map(x => `<div class="plan-c"><b>${esc(x.t)}</b><p>${nb(x.d)}</p></div>`).join('')}${(d.alone || {}).meet ? `<p class="tipbox"><span class="lbl">Meeting up</span>${nb(d.alone.meet)}</p>` : ''}`;
+    const photos = (d.photos || []).map(x => `<div class="spot"><div class="spot-h"><b>${esc(x.t)}</b><span class="kind k-${esc(x.kind)}">${esc(KIND[x.kind] || x.kind)}</span></div>${para('Where', x.where)}${para('When', x.when)}${para('How', x.how)}${para('Keep out', x.avoid)}</div>`).join('');
+    const qa = (d.qa || []).map(x => `<details class="qa"><summary>${esc(x.q)}</summary><p>${nb(x.a)}</p></details>`).join('');
+    const kids = (d.kids || []).map((k, i) => `<label class="quest${kidsDone[i] ? ' done' : ''}"><input type="checkbox" data-kid="${s.id}:${i}"${kidsDone[i] ? ' checked' : ''}><span><span class="qk">${esc(k.t)}</span><span class="qt">${nb(k.d)}</span></span></label>`).join('');
+    const gloss = (d.glossary || []).map(x => `<div class="item"><b>${esc(x.t)}.</b> ${nb(x.d)}</div>`).join('');
+    return `<div class="deep-h"><span class="kicker">In depth</span><p>${nb(d.guide_line || '')}</p></div>
+      ${acc('d-brief', "Your guide's briefing", briefing, true)}
+      ${acc('d-tour', 'The tour, stop by stop', (d.tour || []).map((st, i) => stopHtml(st, i, i === 0)).join(''), true, (d.tour || []).length + ' stops')}
+      ${acc('d-alone', 'When your guide leaves you', alone, false)}
+      ${acc('d-photos', 'Photo spots', photos, false, (d.photos || []).length + ' spots')}
+      ${acc('d-details', 'Details most people miss', items(d.details), false, (d.details || []).length)}
+      ${acc('d-qa', 'Questions, answered', qa, false, (d.qa || []).length)}
+      ${acc('d-prac', 'Before you go in', li(d.practical), false)}
+      ${acc('d-kids', 'For the kids', kids, false, `<span data-kcount="${s.id}">${kidsDone.filter(Boolean).length} of ${(d.kids || []).length} done</span>`)}
+      ${acc('d-gloss', 'Words you will hear', gloss, false)}
+      ${acc('d-night', 'Talk about it tonight', li(d.tonight), false)}
+      <h2 class="sec-h glance">At a glance</h2>`;
+  }
   function vSite(sid) {
     const s = SITE[sid]; if (!s) return vNotFound();
     const q = (LS.get('quests', {})[sid]) || [];
@@ -284,6 +320,7 @@
     return `<div class="site-head"><span class="kicker">${nb(s.kicker)}</span><h1>${esc(s.name)}</h1><p class="hook">${nb(s.hook)}</p></div>
       ${s.hero ? figure(s.hero, 'hero') : ''}
       <div class="chips">${facts}</div>${audioH}
+      ${deepHtml(s)}
       ${acc('story', 'The story', `<p class="story-t">${esc(s.story.title || '')}</p><p>${nb(s.story.text || '')}</p>`, true)}
       ${acc('walk', 'Walk it', `${dg}<ol class="steps">${s.steps.map(x => `<li>${nb(x)}</li>`).join('')}</ol>`, !!dg, s.steps.length + ' stops')}
       ${acc('miss', "Don't miss", s.dont_miss.map(x => `<div class="item"><b>${esc(x.t)}.</b> ${nb(x.d)}</div>`).join(''), true)}
@@ -299,8 +336,8 @@
     const byDay = {};
     D.episodes.forEach(e => (byDay[e.day] = byDay[e.day] || []).push(e.id));
     const groups = Object.keys(byDay).map(Number).sort((a, b) => a - b).map(d => `<div class="sub-h">Day ${d} &middot; ${esc(D.days[d - 1].date)}</div><div class="eps">${byDay[d].map(id => epc(id, { save: true })).join('')}</div>`).join('');
-    const sh = D.episodes.filter(e => e.kind === 'short').length, lg = D.episodes.length - sh;
-    return `<div class="site-head"><span class="kicker">Audio series</span><h1>${esc(D.series.title)}</h1><p class="hook">${esc(D.series.tagline)}. ${sh} short episodes and ${lg} longer stories. After one episode ends, the next one for the same day starts.</p></div>
+    const sh = D.episodes.filter(e => e.kind === 'short').length, wk = D.episodes.filter(e => e.kind === 'walk').length, lg = D.episodes.length - sh - wk;
+    return `<div class="site-head"><span class="kicker">Audio series</span><h1>${esc(D.series.title)}</h1><p class="hook">${esc(D.series.tagline)}. ${wk ? wk + ' guide walks, ' : ''}${sh} short episodes and ${lg} longer stories. After one episode ends, the next one for the same day starts.</p></div>
       ${offlineCard('audio')}${groups}`;
   }
 
@@ -629,6 +666,8 @@
         const a = act.dataset.act;
         if (a === 'save-guide') saveGuide();
         if (a === 'save-audio') saveAudio(D.episodes.map(x => x.id));
+        if (a === 'dismiss-new') { LS.set('v2seen', true); const c = act.closest('.new-card'); if (c) c.remove(); }
+        if (a === 'check-update') checkUpdate();
         if (a === 'copy-link') { try { navigator.clipboard.writeText(D.appUrl).then(() => toast('Link copied.')); } catch (err) { toast(D.appUrl); } }
       }
     });
@@ -643,6 +682,13 @@
       q.closest('.quest').classList.toggle('done', q.checked);
       const s = SITE[sid], c = $(`[data-qcount="${sid}"]`);
       if (c) c.textContent = `${s.quests.filter((_, k) => arr[k]).length} of ${s.quests.length} found`;
+    });
+    document.addEventListener('change', e => {
+      const k = e.target.closest('[data-kid]'); if (!k) return;
+      const [sid, i] = k.dataset.kid.split(':'); const all = LS.get('kids', {}); const arr = all[sid] || [];
+      arr[+i] = k.checked; all[sid] = arr; LS.set('kids', all);
+      k.closest('.quest').classList.toggle('done', k.checked);
+      const c = $(`[data-kcount="${sid}"]`); if (c) c.textContent = `${arr.filter(Boolean).length} of ${SITE[sid].deep.kids.length} done`;
     });
     document.addEventListener('input', e => { if (e.target.id === 'name-in') paintName(); });
     window.addEventListener('hashchange', () => { closeViewer(); closeSheet(); route(); });
@@ -659,6 +705,18 @@
       if (!hadController) return;
       toast('A new version of the guide is ready.', { label: 'Reload', fn: () => { savePos(); location.reload(); } });
     });
+  }
+
+  async function checkUpdate() {
+    if (!navigator.onLine) { toast('No connection. Try again when you have Wi-Fi.'); return; }
+    try {
+      const r = await fetch('data.json?fresh=' + Date.now(), { cache: 'no-store' });
+      const nd = await r.json();
+      if (nd.version === D.version) { toast('You have the latest version.'); return; }
+      toast('New version found. Updating...');
+      const reg = await navigator.serviceWorker.getRegistration();
+      if (reg) await reg.update(); else location.reload();
+    } catch (e) { toast('Could not check. Try again on Wi-Fi.'); }
   }
 
   // ---------- boot ----------

@@ -1,7 +1,7 @@
-/* Service worker for the Egypt Field Guide. Build 32f2f47ba8.
+/* Service worker for the Egypt Field Guide. Build 69771320e0.
    Shell precached on install. Guide assets and audio are saved by the page (Cache Storage).
    Cached audio answers Range requests with 206 Partial Content (needed by iOS Safari). */
-const VERSION = '32f2f47ba8';
+const VERSION = '69771320e0';
 const SHELL = 'shell-v1';
 const AUDIO = 'audio-v1';
 const SHELL_FILES = ["./", "index.html", "app.css", "app.js", "data.json", "manifest.webmanifest", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "fonts/Fraunces.woff2", "fonts/Inter.woff2", "fonts/NotoSansEgyptianHieroglyphs.woff2"];
